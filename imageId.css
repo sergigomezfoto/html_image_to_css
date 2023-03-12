@@ -1,0 +1,2708 @@
+/*<div id="whatever"><div id="pictureID"></div></div>*/ #wrapperID {width: 303px;height: 453px;border: 1px solid #ffff; overflow:unset;}
+  #pictureID {position: relative;
+    top: 2px;
+    left: 2px;
+    width:1px;
+    height:1px;
+    background-color:rgba(0,127,156,1);
+    box-shadow:0 0 2px
+         2px 
+        #007f9cff,10px 0 2px
+         2px 
+        #007f9eff,20px 0 2px
+         2px 
+        #007fa0ff,30px 0 2px
+         2px 
+        #007f9eff,40px 0 2px
+         2px 
+        #00819fff,50px 0 2px
+         2px 
+        #00809bff,60px 0 2px
+         2px 
+        #00819dff,70px 0 2px
+         2px 
+        #00809eff,80px 0 2px
+         2px 
+        #007fa2ff,90px 0 2px
+         2px 
+        #007e9bff,100px 0 2px
+         2px 
+        #007e9bff,110px 0 2px
+         2px 
+        #007d9dff,120px 0 2px
+         2px 
+        #007d9dff,130px 0 2px
+         2px 
+        #007d9dff,140px 0 2px
+         2px 
+        #007e9bff,150px 0 2px
+         2px 
+        #017e9eff,160px 0 2px
+         2px 
+        #007f9cff,170px 0 2px
+         2px 
+        #007d9aff,180px 0 2px
+         2px 
+        #007f98ff,190px 0 2px
+         2px 
+        #007d9aff,200px 0 2px
+         2px 
+        #007e9aff,210px 0 2px
+         2px 
+        #007d9aff,220px 0 2px
+         2px 
+        #007d9aff,230px 0 2px
+         2px 
+        #007e9bff,240px 0 2px
+         2px 
+        #007d9cff,250px 0 2px
+         2px 
+        #007d9aff,260px 0 2px
+         2px 
+        #007b99ff,270px 0 2px
+         2px 
+        #007b99ff,280px 0 2px
+         2px 
+        #007e9bff,290px 0 2px
+         2px 
+        #017c9aff,0 10px 2px
+         2px 
+        #00809cff,10px 10px 2px
+         2px 
+        #007f9cff,20px 10px 2px
+         2px 
+        #007f9eff,30px 10px 2px
+         2px 
+        #007f9cff,40px 10px 2px
+         2px 
+        #007f9eff,50px 10px 2px
+         2px 
+        #00809bff,60px 10px 2px
+         2px 
+        #007f9cff,70px 10px 2px
+         2px 
+        #007f9eff,80px 10px 2px
+         2px 
+        #007e9bff,90px 10px 2px
+         2px 
+        #00809bff,100px 10px 2px
+         2px 
+        #007e9dff,110px 10px 2px
+         2px 
+        #007e9bff,120px 10px 2px
+         2px 
+        #007d9dff,130px 10px 2px
+         2px 
+        #007d99ff,140px 10px 2px
+         2px 
+        #007e9bff,150px 10px 2px
+         2px 
+        #01809fff,160px 10px 2px
+         2px 
+        #007d9aff,170px 10px 2px
+         2px 
+        #007e9fff,180px 10px 2px
+         2px 
+        #007e9bff,190px 10px 2px
+         2px 
+        #007d9aff,200px 10px 2px
+         2px 
+        #017f9cff,210px 10px 2px
+         2px 
+        #007e9bff,220px 10px 2px
+         2px 
+        #00809bff,230px 10px 2px
+         2px 
+        #007f9aff,240px 10px 2px
+         2px 
+        #007c99ff,250px 10px 2px
+         2px 
+        #017c9aff,260px 10px 2px
+         2px 
+        #007c99ff,270px 10px 2px
+         2px 
+        #007b99ff,280px 10px 2px
+         2px 
+        #017c9aff,290px 10px 2px
+         2px 
+        #007c98ff,0 20px 2px
+         2px 
+        #007e9bff,10px 20px 2px
+         2px 
+        #01809dff,20px 20px 2px
+         2px 
+        #00819dff,30px 20px 2px
+         2px 
+        #007f9aff,40px 20px 2px
+         2px 
+        #007f9aff,50px 20px 2px
+         2px 
+        #00809bff,60px 20px 2px
+         2px 
+        #00809bff,70px 20px 2px
+         2px 
+        #007f9cff,80px 20px 2px
+         2px 
+        #007e9bff,90px 20px 2px
+         2px 
+        #007f9aff,100px 20px 2px
+         2px 
+        #007e9bff,110px 20px 2px
+         2px 
+        #007d99ff,120px 20px 2px
+         2px 
+        #007f9eff,130px 20px 2px
+         2px 
+        #007e9bff,140px 20px 2px
+         2px 
+        #007f9aff,150px 20px 2px
+         2px 
+        #00809bff,160px 20px 2px
+         2px 
+        #007e9bff,170px 20px 2px
+         2px 
+        #007d9aff,180px 20px 2px
+         2px 
+        #007e9bff,190px 20px 2px
+         2px 
+        #007d9aff,200px 20px 2px
+         2px 
+        #007e9dff,210px 20px 2px
+         2px 
+        #007e9bff,220px 20px 2px
+         2px 
+        #017c9aff,230px 20px 2px
+         2px 
+        #017c9aff,240px 20px 2px
+         2px 
+        #007e9aff,250px 20px 2px
+         2px 
+        #007d9aff,260px 20px 2px
+         2px 
+        #007d9aff,270px 20px 2px
+         2px 
+        #007e9bff,280px 20px 2px
+         2px 
+        #007d9aff,290px 20px 2px
+         2px 
+        #007b99ff,0 30px 2px
+         2px 
+        #007f9cff,10px 30px 2px
+         2px 
+        #00819dff,20px 30px 2px
+         2px 
+        #007f9eff,30px 30px 2px
+         2px 
+        #00809bff,40px 30px 2px
+         2px 
+        #00809bff,50px 30px 2px
+         2px 
+        #01809dff,60px 30px 2px
+         2px 
+        #007e9fff,70px 30px 2px
+         2px 
+        #007e9aff,80px 30px 2px
+         2px 
+        #01819cff,90px 30px 2px
+         2px 
+        #00809bff,100px 30px 2px
+         2px 
+        #007e9bff,110px 30px 2px
+         2px 
+        #007d9aff,120px 30px 2px
+         2px 
+        #007e9aff,130px 30px 2px
+         2px 
+        #007d97ff,140px 30px 2px
+         2px 
+        #007e99ff,150px 30px 2px
+         2px 
+        #007e9aff,160px 30px 2px
+         2px 
+        #007e9bff,170px 30px 2px
+         2px 
+        #007d99ff,180px 30px 2px
+         2px 
+        #007f9eff,190px 30px 2px
+         2px 
+        #007d9aff,200px 30px 2px
+         2px 
+        #007e9bff,210px 30px 2px
+         2px 
+        #007d9aff,220px 30px 2px
+         2px 
+        #007e9bff,230px 30px 2px
+         2px 
+        #007d99ff,240px 30px 2px
+         2px 
+        #007d9aff,250px 30px 2px
+         2px 
+        #007d9aff,260px 30px 2px
+         2px 
+        #007e9bff,270px 30px 2px
+         2px 
+        #007d9aff,280px 30px 2px
+         2px 
+        #007d9aff,290px 30px 2px
+         2px 
+        #007c99ff,0 40px 2px
+         2px 
+        #00809bff,10px 40px 2px
+         2px 
+        #00809cff,20px 40px 2px
+         2px 
+        #007e9fff,30px 40px 2px
+         2px 
+        #007e9fff,40px 40px 2px
+         2px 
+        #0182a0ff,50px 40px 2px
+         2px 
+        #007d9aff,60px 40px 2px
+         2px 
+        #007f9cff,70px 40px 2px
+         2px 
+        #00809eff,80px 40px 2px
+         2px 
+        #007fa0ff,90px 40px 2px
+         2px 
+        #007d9dff,100px 40px 2px
+         2px 
+        #027c9dff,110px 40px 2px
+         2px 
+        #007c99ff,120px 40px 2px
+         2px 
+        #027c97ff,130px 40px 2px
+         2px 
+        #00758dff,140px 40px 2px
+         2px 
+        #006077ff,150px 40px 2px
+         2px 
+        #003345ff,160px 40px 2px
+         2px 
+        #01141eff,170px 40px 2px
+         2px 
+        #007a93ff,180px 40px 2px
+         2px 
+        #007e98ff,190px 40px 2px
+         2px 
+        #007d99ff,200px 40px 2px
+         2px 
+        #007d99ff,210px 40px 2px
+         2px 
+        #007e9aff,220px 40px 2px
+         2px 
+        #017c99ff,230px 40px 2px
+         2px 
+        #007b98ff,240px 40px 2px
+         2px 
+        #007d97ff,250px 40px 2px
+         2px 
+        #007e9bff,260px 40px 2px
+         2px 
+        #007e9bff,270px 40px 2px
+         2px 
+        #017c9aff,280px 40px 2px
+         2px 
+        #007b99ff,290px 40px 2px
+         2px 
+        #007b99ff,0 50px 2px
+         2px 
+        #00819fff,10px 50px 2px
+         2px 
+        #0080a1ff,20px 50px 2px
+         2px 
+        #007f9cff,30px 50px 2px
+         2px 
+        #00809bff,40px 50px 2px
+         2px 
+        #008099ff,50px 50px 2px
+         2px 
+        #008099ff,60px 50px 2px
+         2px 
+        #007f9cff,70px 50px 2px
+         2px 
+        #00809bff,80px 50px 2px
+         2px 
+        #007e9aff,90px 50px 2px
+         2px 
+        #007d97ff,100px 50px 2px
+         2px 
+        #017f9cff,110px 50px 2px
+         2px 
+        #002b34ff,120px 50px 2px
+         2px 
+        #03141cff,130px 50px 2px
+         2px 
+        #0b1017ff,140px 50px 2px
+         2px 
+        #010409ff,150px 50px 2px
+         2px 
+        #00050cff,160px 50px 2px
+         2px 
+        #020816ff,170px 50px 2px
+         2px 
+        #272f3dff,180px 50px 2px
+         2px 
+        #1e465bff,190px 50px 2px
+         2px 
+        #01687bff,200px 50px 2px
+         2px 
+        #007b98ff,210px 50px 2px
+         2px 
+        #007d99ff,220px 50px 2px
+         2px 
+        #007e9bff,230px 50px 2px
+         2px 
+        #007e9bff,240px 50px 2px
+         2px 
+        #007d9aff,250px 50px 2px
+         2px 
+        #007e9bff,260px 50px 2px
+         2px 
+        #007d99ff,270px 50px 2px
+         2px 
+        #007c98ff,280px 50px 2px
+         2px 
+        #007c99ff,290px 50px 2px
+         2px 
+        #007b99ff,0 60px 2px
+         2px 
+        #0180a1ff,10px 60px 2px
+         2px 
+        #007e9fff,20px 60px 2px
+         2px 
+        #007e9dff,30px 60px 2px
+         2px 
+        #00819cff,40px 60px 2px
+         2px 
+        #007f9cff,50px 60px 2px
+         2px 
+        #007d9aff,60px 60px 2px
+         2px 
+        #01829eff,70px 60px 2px
+         2px 
+        #007e9aff,80px 60px 2px
+         2px 
+        #007d97ff,90px 60px 2px
+         2px 
+        #01121aff,100px 60px 2px
+         2px 
+        #011518ff,110px 60px 2px
+         2px 
+        #061116ff,120px 60px 2px
+         2px 
+        #09050fff,130px 60px 2px
+         2px 
+        #11161eff,140px 60px 2px
+         2px 
+        #07050cff,150px 60px 2px
+         2px 
+        #170b0dff,160px 60px 2px
+         2px 
+        #342d33ff,170px 60px 2px
+         2px 
+        #090b0eff,180px 60px 2px
+         2px 
+        #1e1a25ff,190px 60px 2px
+         2px 
+        #151e29ff,200px 60px 2px
+         2px 
+        #232d3bff,210px 60px 2px
+         2px 
+        #00778bff,220px 60px 2px
+         2px 
+        #007b99ff,230px 60px 2px
+         2px 
+        #007e9aff,240px 60px 2px
+         2px 
+        #007f9aff,250px 60px 2px
+         2px 
+        #007d99ff,260px 60px 2px
+         2px 
+        #007e9aff,270px 60px 2px
+         2px 
+        #007d9aff,280px 60px 2px
+         2px 
+        #007d97ff,290px 60px 2px
+         2px 
+        #017c9aff,0 70px 2px
+         2px 
+        #007f9eff,10px 70px 2px
+         2px 
+        #007f9eff,20px 70px 2px
+         2px 
+        #007f9cff,30px 70px 2px
+         2px 
+        #00809cff,40px 70px 2px
+         2px 
+        #00809cff,50px 70px 2px
+         2px 
+        #007f9cff,60px 70px 2px
+         2px 
+        #007e9aff,70px 70px 2px
+         2px 
+        #007c9cff,80px 70px 2px
+         2px 
+        #00242eff,90px 70px 2px
+         2px 
+        #131923ff,100px 70px 2px
+         2px 
+        #090c13ff,110px 70px 2px
+         2px 
+        #0b1115ff,120px 70px 2px
+         2px 
+        #16191eff,130px 70px 2px
+         2px 
+        #1f1b25ff,140px 70px 2px
+         2px 
+        #271a20ff,150px 70px 2px
+         2px 
+        #4a4650ff,160px 70px 2px
+         2px 
+        #442626ff,170px 70px 2px
+         2px 
+        #434148ff,180px 70px 2px
+         2px 
+        #29232fff,190px 70px 2px
+         2px 
+        #13111bff,200px 70px 2px
+         2px 
+        #221f2cff,210px 70px 2px
+         2px 
+        #444e5bff,220px 70px 2px
+         2px 
+        #013446ff,230px 70px 2px
+         2px 
+        #007d99ff,240px 70px 2px
+         2px 
+        #007d9aff,250px 70px 2px
+         2px 
+        #007d9aff,260px 70px 2px
+         2px 
+        #007e9bff,270px 70px 2px
+         2px 
+        #007d9aff,280px 70px 2px
+         2px 
+        #007d99ff,290px 70px 2px
+         2px 
+        #007e9bff,0 80px 2px
+         2px 
+        #00809cff,10px 80px 2px
+         2px 
+        #00809eff,20px 80px 2px
+         2px 
+        #007e9bff,30px 80px 2px
+         2px 
+        #007e9dff,40px 80px 2px
+         2px 
+        #007d9dff,50px 80px 2px
+         2px 
+        #00809bff,60px 80px 2px
+         2px 
+        #017f9bff,70px 80px 2px
+         2px 
+        #013446ff,80px 80px 2px
+         2px 
+        #222836ff,90px 80px 2px
+         2px 
+        #091318ff,100px 80px 2px
+         2px 
+        #16171fff,110px 80px 2px
+         2px 
+        #1b1721ff,120px 80px 2px
+         2px 
+        #18161dff,130px 80px 2px
+         2px 
+        #563635ff,140px 80px 2px
+         2px 
+        #684c4fff,150px 80px 2px
+         2px 
+        #624444ff,160px 80px 2px
+         2px 
+        #564a48ff,170px 80px 2px
+         2px 
+        #3b343aff,180px 80px 2px
+         2px 
+        #65626fff,190px 80px 2px
+         2px 
+        #473743ff,200px 80px 2px
+         2px 
+        #5a4d52ff,210px 80px 2px
+         2px 
+        #45474aff,220px 80px 2px
+         2px 
+        #78899eff,230px 80px 2px
+         2px 
+        #2f4e5fff,240px 80px 2px
+         2px 
+        #007d94ff,250px 80px 2px
+         2px 
+        #007d9aff,260px 80px 2px
+         2px 
+        #017c9aff,270px 80px 2px
+         2px 
+        #007d99ff,280px 80px 2px
+         2px 
+        #007e9bff,290px 80px 2px
+         2px 
+        #007e9aff,0 90px 2px
+         2px 
+        #007f9aff,10px 90px 2px
+         2px 
+        #007c9eff,20px 90px 2px
+         2px 
+        #007f9eff,30px 90px 2px
+         2px 
+        #007e9bff,40px 90px 2px
+         2px 
+        #017e9eff,50px 90px 2px
+         2px 
+        #007f9cff,60px 90px 2px
+         2px 
+        #00333fff,70px 90px 2px
+         2px 
+        #1b2636ff,80px 90px 2px
+         2px 
+        #13212dff,90px 90px 2px
+         2px 
+        #312e3dff,100px 90px 2px
+         2px 
+        #262831ff,110px 90px 2px
+         2px 
+        #31313dff,120px 90px 2px
+         2px 
+        #040808ff,130px 90px 2px
+         2px 
+        #6d545bff,140px 90px 2px
+         2px 
+        #775150ff,150px 90px 2px
+         2px 
+        #8b6d6bff,160px 90px 2px
+         2px 
+        #786972ff,170px 90px 2px
+         2px 
+        #857478ff,180px 90px 2px
+         2px 
+        #7d7984ff,190px 90px 2px
+         2px 
+        #6a5a68ff,200px 90px 2px
+         2px 
+        #635761ff,210px 90px 2px
+         2px 
+        #8d7f8cff,220px 90px 2px
+         2px 
+        #9794a5ff,230px 90px 2px
+         2px 
+        #49536aff,240px 90px 2px
+         2px 
+        #017f99ff,250px 90px 2px
+         2px 
+        #017c99ff,260px 90px 2px
+         2px 
+        #027d9bff,270px 90px 2px
+         2px 
+        #017c9aff,280px 90px 2px
+         2px 
+        #007b99ff,290px 90px 2px
+         2px 
+        #007d9aff,0 100px 2px
+         2px 
+        #00819fff,10px 100px 2px
+         2px 
+        #01819cff,20px 100px 2px
+         2px 
+        #00809cff,30px 100px 2px
+         2px 
+        #00809cff,40px 100px 2px
+         2px 
+        #01809dff,50px 100px 2px
+         2px 
+        #017896ff,60px 100px 2px
+         2px 
+        #374552ff,70px 100px 2px
+         2px 
+        #2e2e3aff,80px 100px 2px
+         2px 
+        #403746ff,90px 100px 2px
+         2px 
+        #2b3648ff,100px 100px 2px
+         2px 
+        #282b2eff,110px 100px 2px
+         2px 
+        #2a212aff,120px 100px 2px
+         2px 
+        #332a39ff,130px 100px 2px
+         2px 
+        #382125ff,140px 100px 2px
+         2px 
+        #8b7979ff,150px 100px 2px
+         2px 
+        #8f6d6dff,160px 100px 2px
+         2px 
+        #9e7877ff,170px 100px 2px
+         2px 
+        #a6898fff,180px 100px 2px
+         2px 
+        #8d717bff,190px 100px 2px
+         2px 
+        #927982ff,200px 100px 2px
+         2px 
+        #745656ff,210px 100px 2px
+         2px 
+        #8b6765ff,220px 100px 2px
+         2px 
+        #6c5d64ff,230px 100px 2px
+         2px 
+        #93a8b9ff,240px 100px 2px
+         2px 
+        #305b6fff,250px 100px 2px
+         2px 
+        #007d97ff,260px 100px 2px
+         2px 
+        #007d99ff,270px 100px 2px
+         2px 
+        #017c99ff,280px 100px 2px
+         2px 
+        #017c99ff,290px 100px 2px
+         2px 
+        #007d99ff,0 110px 2px
+         2px 
+        #007f9aff,10px 110px 2px
+         2px 
+        #008099ff,20px 110px 2px
+         2px 
+        #01809fff,30px 110px 2px
+         2px 
+        #007f9aff,40px 110px 2px
+         2px 
+        #007e9dff,50px 110px 2px
+         2px 
+        #00788fff,60px 110px 2px
+         2px 
+        #45505eff,70px 110px 2px
+         2px 
+        #4f4d57ff,80px 110px 2px
+         2px 
+        #3e393fff,90px 110px 2px
+         2px 
+        #614f59ff,100px 110px 2px
+         2px 
+        #493d47ff,110px 110px 2px
+         2px 
+        #624144ff,120px 110px 2px
+         2px 
+        #4f3944ff,130px 110px 2px
+         2px 
+        #8a7280ff,140px 110px 2px
+         2px 
+        #b28482ff,150px 110px 2px
+         2px 
+        #ba8283ff,160px 110px 2px
+         2px 
+        #b67877ff,170px 110px 2px
+         2px 
+        #bd9499ff,180px 110px 2px
+         2px 
+        #d69792ff,190px 110px 2px
+         2px 
+        #cc8780ff,200px 110px 2px
+         2px 
+        #d2938eff,210px 110px 2px
+         2px 
+        #976968ff,220px 110px 2px
+         2px 
+        #95868fff,230px 110px 2px
+         2px 
+        #8b8c9cff,240px 110px 2px
+         2px 
+        #578092ff,250px 110px 2px
+         2px 
+        #007d9aff,260px 110px 2px
+         2px 
+        #007e9aff,270px 110px 2px
+         2px 
+        #007e9bff,280px 110px 2px
+         2px 
+        #007d99ff,290px 110px 2px
+         2px 
+        #007e9bff,0 120px 2px
+         2px 
+        #007e9bff,10px 120px 2px
+         2px 
+        #007f9cff,20px 120px 2px
+         2px 
+        #007e9dff,30px 120px 2px
+         2px 
+        #007f9eff,40px 120px 2px
+         2px 
+        #0084a1ff,50px 120px 2px
+         2px 
+        #3a5866ff,60px 120px 2px
+         2px 
+        #57545bff,70px 120px 2px
+         2px 
+        #574b4dff,80px 120px 2px
+         2px 
+        #774d4fff,90px 120px 2px
+         2px 
+        #836364ff,100px 120px 2px
+         2px 
+        #a87273ff,110px 120px 2px
+         2px 
+        #92605bff,120px 120px 2px
+         2px 
+        #553d49ff,130px 120px 2px
+         2px 
+        #8c6c73ff,140px 120px 2px
+         2px 
+        #efb6b1ff,150px 120px 2px
+         2px 
+        #fdc7c8ff,160px 120px 2px
+         2px 
+        #f8ceccff,170px 120px 2px
+         2px 
+        #f6b7b1ff,180px 120px 2px
+         2px 
+        #e2887bff,190px 120px 2px
+         2px 
+        #eca192ff,200px 120px 2px
+         2px 
+        #e0917eff,210px 120px 2px
+         2px 
+        #d28f8aff,220px 120px 2px
+         2px 
+        #b59ea6ff,230px 120px 2px
+         2px 
+        #9c9dadff,240px 120px 2px
+         2px 
+        #67758bff,250px 120px 2px
+         2px 
+        #017f9cff,260px 120px 2px
+         2px 
+        #007d9aff,270px 120px 2px
+         2px 
+        #007f98ff,280px 120px 2px
+         2px 
+        #007d9aff,290px 120px 2px
+         2px 
+        #007b98ff,0 130px 2px
+         2px 
+        #007f9cff,10px 130px 2px
+         2px 
+        #007f9eff,20px 130px 2px
+         2px 
+        #00819cff,30px 130px 2px
+         2px 
+        #00809bff,40px 130px 2px
+         2px 
+        #00809bff,50px 130px 2px
+         2px 
+        #5f5f6dff,60px 130px 2px
+         2px 
+        #777c86ff,70px 130px 2px
+         2px 
+        #8b696bff,80px 130px 2px
+         2px 
+        #a56d64ff,90px 130px 2px
+         2px 
+        #a45f58ff,100px 130px 2px
+         2px 
+        #d5827eff,110px 130px 2px
+         2px 
+        #c3867fff,120px 130px 2px
+         2px 
+        #6d6777ff,130px 130px 2px
+         2px 
+        #dea09fff,140px 130px 2px
+         2px 
+        #febfb9ff,150px 130px 2px
+         2px 
+        #ffcdc8ff,160px 130px 2px
+         2px 
+        #fdccc2ff,170px 130px 2px
+         2px 
+        #fecac8ff,180px 130px 2px
+         2px 
+        #f6b7b1ff,190px 130px 2px
+         2px 
+        #fbb1a4ff,200px 130px 2px
+         2px 
+        #e3928aff,210px 130px 2px
+         2px 
+        #dd988fff,220px 130px 2px
+         2px 
+        #c2a7acff,230px 130px 2px
+         2px 
+        #878f9dff,240px 130px 2px
+         2px 
+        #586270ff,250px 130px 2px
+         2px 
+        #00849fff,260px 130px 2px
+         2px 
+        #007a98ff,270px 130px 2px
+         2px 
+        #007e9aff,280px 130px 2px
+         2px 
+        #007d9aff,290px 130px 2px
+         2px 
+        #007e9bff,0 140px 2px
+         2px 
+        #00809bff,10px 140px 2px
+         2px 
+        #00809bff,20px 140px 2px
+         2px 
+        #008099ff,30px 140px 2px
+         2px 
+        #00809cff,40px 140px 2px
+         2px 
+        #007e9bff,50px 140px 2px
+         2px 
+        #7e848eff,60px 140px 2px
+         2px 
+        #807d84ff,70px 140px 2px
+         2px 
+        #966761ff,80px 140px 2px
+         2px 
+        #a76656ff,90px 140px 2px
+         2px 
+        #a75d4eff,100px 140px 2px
+         2px 
+        #e88979ff,110px 140px 2px
+         2px 
+        #e99485ff,120px 140px 2px
+         2px 
+        #875958ff,130px 140px 2px
+         2px 
+        #f3b0abff,140px 140px 2px
+         2px 
+        #ffafa0ff,150px 140px 2px
+         2px 
+        #fec7c1ff,160px 140px 2px
+         2px 
+        #fec5beff,170px 140px 2px
+         2px 
+        #ffc9c3ff,180px 140px 2px
+         2px 
+        #ffbab3ff,190px 140px 2px
+         2px 
+        #fab0a1ff,200px 140px 2px
+         2px 
+        #e6988aff,210px 140px 2px
+         2px 
+        #e4988eff,220px 140px 2px
+         2px 
+        #957572ff,230px 140px 2px
+         2px 
+        #828491ff,240px 140px 2px
+         2px 
+        #929baeff,250px 140px 2px
+         2px 
+        #0082a2ff,260px 140px 2px
+         2px 
+        #007d9aff,270px 140px 2px
+         2px 
+        #007d9aff,280px 140px 2px
+         2px 
+        #007d9aff,290px 140px 2px
+         2px 
+        #017c9aff,0 150px 2px
+         2px 
+        #01809dff,10px 150px 2px
+         2px 
+        #007f9cff,20px 150px 2px
+         2px 
+        #00809cff,30px 150px 2px
+         2px 
+        #007f9cff,40px 150px 2px
+         2px 
+        #008199ff,50px 150px 2px
+         2px 
+        #707886ff,60px 150px 2px
+         2px 
+        #8a8690ff,70px 150px 2px
+         2px 
+        #977774ff,80px 150px 2px
+         2px 
+        #b77261ff,90px 150px 2px
+         2px 
+        #de8774ff,100px 150px 2px
+         2px 
+        #ee8c7fff,110px 150px 2px
+         2px 
+        #f8a297ff,120px 150px 2px
+         2px 
+        #d58172ff,130px 150px 2px
+         2px 
+        #fdbcb6ff,140px 150px 2px
+         2px 
+        #feb6acff,150px 150px 2px
+         2px 
+        #febfb9ff,160px 150px 2px
+         2px 
+        #ffc8c7ff,170px 150px 2px
+         2px 
+        #ffcdc8ff,180px 150px 2px
+         2px 
+        #febdb7ff,190px 150px 2px
+         2px 
+        #f9bbb2ff,200px 150px 2px
+         2px 
+        #e99e97ff,210px 150px 2px
+         2px 
+        #dc9285ff,220px 150px 2px
+         2px 
+        #c78680ff,230px 150px 2px
+         2px 
+        #58424aff,240px 150px 2px
+         2px 
+        #748d9fff,250px 150px 2px
+         2px 
+        #006a7eff,260px 150px 2px
+         2px 
+        #017d95ff,270px 150px 2px
+         2px 
+        #007d9aff,280px 150px 2px
+         2px 
+        #007e9aff,290px 150px 2px
+         2px 
+        #007c98ff,0 160px 2px
+         2px 
+        #01809dff,10px 160px 2px
+         2px 
+        #007f9cff,20px 160px 2px
+         2px 
+        #00809bff,30px 160px 2px
+         2px 
+        #00809bff,40px 160px 2px
+         2px 
+        #01809fff,50px 160px 2px
+         2px 
+        #497987ff,60px 160px 2px
+         2px 
+        #8c8e91ff,70px 160px 2px
+         2px 
+        #705153ff,80px 160px 2px
+         2px 
+        #cb7f73ff,90px 160px 2px
+         2px 
+        #d48773ff,100px 160px 2px
+         2px 
+        #f6b0a2ff,110px 160px 2px
+         2px 
+        #ffb3a9ff,120px 160px 2px
+         2px 
+        #ffc1b8ff,130px 160px 2px
+         2px 
+        #ffc8c2ff,140px 160px 2px
+         2px 
+        #fec9c3ff,150px 160px 2px
+         2px 
+        #ffc4bdff,160px 160px 2px
+         2px 
+        #febfb9ff,170px 160px 2px
+         2px 
+        #f4c1baff,180px 160px 2px
+         2px 
+        #e1a1a1ff,190px 160px 2px
+         2px 
+        #936160ff,200px 160px 2px
+         2px 
+        #562729ff,210px 160px 2px
+         2px 
+        #b56c67ff,220px 160px 2px
+         2px 
+        #cc8982ff,230px 160px 2px
+         2px 
+        #816162ff,240px 160px 2px
+         2px 
+        #554f5fff,250px 160px 2px
+         2px 
+        #e8757eff,260px 160px 2px
+         2px 
+        #007d8cff,270px 160px 2px
+         2px 
+        #007d99ff,280px 160px 2px
+         2px 
+        #007d99ff,290px 160px 2px
+         2px 
+        #007d99ff,0 170px 2px
+         2px 
+        #007e9bff,10px 170px 2px
+         2px 
+        #008099ff,20px 170px 2px
+         2px 
+        #00809bff,30px 170px 2px
+         2px 
+        #01819cff,40px 170px 2px
+         2px 
+        #007f98ff,50px 170px 2px
+         2px 
+        #007e98ff,60px 170px 2px
+         2px 
+        #848289ff,70px 170px 2px
+         2px 
+        #7c666eff,80px 170px 2px
+         2px 
+        #aa695fff,90px 170px 2px
+         2px 
+        #97594eff,100px 170px 2px
+         2px 
+        #99685eff,110px 170px 2px
+         2px 
+        #bd766eff,120px 170px 2px
+         2px 
+        #e3968eff,130px 170px 2px
+         2px 
+        #f1b3aaff,140px 170px 2px
+         2px 
+        #f8b9b3ff,150px 170px 2px
+         2px 
+        #f5b0a9ff,160px 170px 2px
+         2px 
+        #dea7a1ff,170px 170px 2px
+         2px 
+        #834949ff,180px 170px 2px
+         2px 
+        #a16360ff,190px 170px 2px
+         2px 
+        #dd8b8bff,200px 170px 2px
+         2px 
+        #d38682ff,210px 170px 2px
+         2px 
+        #b47b78ff,220px 170px 2px
+         2px 
+        #cd8c84ff,230px 170px 2px
+         2px 
+        #c58a83ff,240px 170px 2px
+         2px 
+        #715766ff,250px 170px 2px
+         2px 
+        #df6a6fff,260px 170px 2px
+         2px 
+        #2c7789ff,270px 170px 2px
+         2px 
+        #007e9aff,280px 170px 2px
+         2px 
+        #007d97ff,290px 170px 2px
+         2px 
+        #007d99ff,0 180px 2px
+         2px 
+        #007e9bff,10px 180px 2px
+         2px 
+        #007f98ff,20px 180px 2px
+         2px 
+        #007e9bff,30px 180px 2px
+         2px 
+        #007f9cff,40px 180px 2px
+         2px 
+        #007e99ff,50px 180px 2px
+         2px 
+        #007d97ff,60px 180px 2px
+         2px 
+        #676c73ff,70px 180px 2px
+         2px 
+        #4c3434ff,80px 180px 2px
+         2px 
+        #af6a5fff,90px 180px 2px
+         2px 
+        #956354ff,100px 180px 2px
+         2px 
+        #d28f88ff,110px 180px 2px
+         2px 
+        #a76155ff,120px 180px 2px
+         2px 
+        #72332eff,130px 180px 2px
+         2px 
+        #94514cff,140px 180px 2px
+         2px 
+        #e2978eff,150px 180px 2px
+         2px 
+        #e49084ff,160px 180px 2px
+         2px 
+        #cc7f7bff,170px 180px 2px
+         2px 
+        #bb615fff,180px 180px 2px
+         2px 
+        #472732ff,190px 180px 2px
+         2px 
+        #531411ff,200px 180px 2px
+         2px 
+        #773229ff,210px 180px 2px
+         2px 
+        #db9a92ff,220px 180px 2px
+         2px 
+        #e6a39cff,230px 180px 2px
+         2px 
+        #d18c85ff,240px 180px 2px
+         2px 
+        #645564ff,250px 180px 2px
+         2px 
+        #ea6c6cff,260px 180px 2px
+         2px 
+        #007d94ff,270px 180px 2px
+         2px 
+        #007d9aff,280px 180px 2px
+         2px 
+        #007b98ff,290px 180px 2px
+         2px 
+        #007d99ff,0 190px 2px
+         2px 
+        #007e9bff,10px 190px 2px
+         2px 
+        #007d99ff,20px 190px 2px
+         2px 
+        #007d9aff,30px 190px 2px
+         2px 
+        #007e9bff,40px 190px 2px
+         2px 
+        #007e9aff,50px 190px 2px
+         2px 
+        #007d9aff,60px 190px 2px
+         2px 
+        #b46262ff,70px 190px 2px
+         2px 
+        #574d59ff,80px 190px 2px
+         2px 
+        #b17066ff,90px 190px 2px
+         2px 
+        #b4685eff,100px 190px 2px
+         2px 
+        #b56359ff,110px 190px 2px
+         2px 
+        #481510ff,120px 190px 2px
+         2px 
+        #5e404eff,130px 190px 2px
+         2px 
+        #c86762ff,140px 190px 2px
+         2px 
+        #e49383ff,150px 190px 2px
+         2px 
+        #ffc4bdff,160px 190px 2px
+         2px 
+        #dba1a3ff,170px 190px 2px
+         2px 
+        #e79186ff,180px 190px 2px
+         2px 
+        #e08284ff,190px 190px 2px
+         2px 
+        #c68386ff,200px 190px 2px
+         2px 
+        #d67f7cff,210px 190px 2px
+         2px 
+        #f19e8aff,220px 190px 2px
+         2px 
+        #f8ad9bff,230px 190px 2px
+         2px 
+        #d2918bff,240px 190px 2px
+         2px 
+        #603135ff,250px 190px 2px
+         2px 
+        #e36058ff,260px 190px 2px
+         2px 
+        #027c97ff,270px 190px 2px
+         2px 
+        #007d9aff,280px 190px 2px
+         2px 
+        #007e9bff,290px 190px 2px
+         2px 
+        #007e9bff,0 200px 2px
+         2px 
+        #007e98ff,10px 200px 2px
+         2px 
+        #007e9bff,20px 200px 2px
+         2px 
+        #007d9aff,30px 200px 2px
+         2px 
+        #017f9cff,40px 200px 2px
+         2px 
+        #007e9aff,50px 200px 2px
+         2px 
+        #007e9bff,60px 200px 2px
+         2px 
+        #b53b3cff,70px 200px 2px
+         2px 
+        #5c464eff,80px 200px 2px
+         2px 
+        #c57566ff,90px 200px 2px
+         2px 
+        #c77364ff,100px 200px 2px
+         2px 
+        #bb5f60ff,110px 200px 2px
+         2px 
+        #ce8688ff,120px 200px 2px
+         2px 
+        #f0b1aeff,130px 200px 2px
+         2px 
+        #e0abb3ff,140px 200px 2px
+         2px 
+        #db7a66ff,150px 200px 2px
+         2px 
+        #ffb5aeff,160px 200px 2px
+         2px 
+        #ec9286ff,170px 200px 2px
+         2px 
+        #f6aaa0ff,180px 200px 2px
+         2px 
+        #f5adabff,190px 200px 2px
+         2px 
+        #f1b4aeff,200px 200px 2px
+         2px 
+        #fbaca3ff,210px 200px 2px
+         2px 
+        #feaca2ff,220px 200px 2px
+         2px 
+        #efa29aff,230px 200px 2px
+         2px 
+        #d38b83ff,240px 200px 2px
+         2px 
+        #72494bff,250px 200px 2px
+         2px 
+        #e97a7cff,260px 200px 2px
+         2px 
+        #037f99ff,270px 200px 2px
+         2px 
+        #007d9aff,280px 200px 2px
+         2px 
+        #007d99ff,290px 200px 2px
+         2px 
+        #007c96ff,0 210px 2px
+         2px 
+        #017d95ff,10px 210px 2px
+         2px 
+        #007c96ff,20px 210px 2px
+         2px 
+        #007b99ff,30px 210px 2px
+         2px 
+        #007c96ff,40px 210px 2px
+         2px 
+        #007b99ff,50px 210px 2px
+         2px 
+        #007d97ff,60px 210px 2px
+         2px 
+        #007e9aff,70px 210px 2px
+         2px 
+        #4a3236ff,80px 210px 2px
+         2px 
+        #c57f73ff,90px 210px 2px
+         2px 
+        #df8676ff,100px 210px 2px
+         2px 
+        #e58372ff,110px 210px 2px
+         2px 
+        #eb9896ff,120px 210px 2px
+         2px 
+        #f8b2afff,130px 210px 2px
+         2px 
+        #f19f93ff,140px 210px 2px
+         2px 
+        #de7e71ff,150px 210px 2px
+         2px 
+        #ffada3ff,160px 210px 2px
+         2px 
+        #f19892ff,170px 210px 2px
+         2px 
+        #feb6aeff,180px 210px 2px
+         2px 
+        #ffbbb4ff,190px 210px 2px
+         2px 
+        #feb3aeff,200px 210px 2px
+         2px 
+        #feb6aeff,210px 210px 2px
+         2px 
+        #feb5b0ff,220px 210px 2px
+         2px 
+        #e7a09aff,230px 210px 2px
+         2px 
+        #d38c86ff,240px 210px 2px
+         2px 
+        #8f6058ff,250px 210px 2px
+         2px 
+        #e18489ff,260px 210px 2px
+         2px 
+        #007e98ff,270px 210px 2px
+         2px 
+        #007b99ff,280px 210px 2px
+         2px 
+        #007b99ff,290px 210px 2px
+         2px 
+        #007d99ff,0 220px 2px
+         2px 
+        #007a93ff,10px 220px 2px
+         2px 
+        #007b93ff,20px 220px 2px
+         2px 
+        #007c96ff,30px 220px 2px
+         2px 
+        #007c96ff,40px 220px 2px
+         2px 
+        #017d97ff,50px 220px 2px
+         2px 
+        #007c96ff,60px 220px 2px
+         2px 
+        #017c99ff,70px 220px 2px
+         2px 
+        #bd5757ff,80px 220px 2px
+         2px 
+        #b4766dff,90px 220px 2px
+         2px 
+        #ed948cff,100px 220px 2px
+         2px 
+        #fea59fff,110px 220px 2px
+         2px 
+        #ffb0a8ff,120px 220px 2px
+         2px 
+        #ffb7afff,130px 220px 2px
+         2px 
+        #ffa79dff,140px 220px 2px
+         2px 
+        #e78c87ff,150px 220px 2px
+         2px 
+        #fea7a1ff,160px 220px 2px
+         2px 
+        #fa9f9bff,170px 220px 2px
+         2px 
+        #f08b85ff,180px 220px 2px
+         2px 
+        #f09085ff,190px 220px 2px
+         2px 
+        #fdc8c2ff,200px 220px 2px
+         2px 
+        #fecfcbff,210px 220px 2px
+         2px 
+        #fdc2bbff,220px 220px 2px
+         2px 
+        #e5a49eff,230px 220px 2px
+         2px 
+        #ce918aff,240px 220px 2px
+         2px 
+        #7d4b4aff,250px 220px 2px
+         2px 
+        #d97373ff,260px 220px 2px
+         2px 
+        #007b98ff,270px 220px 2px
+         2px 
+        #007c96ff,280px 220px 2px
+         2px 
+        #007c96ff,290px 220px 2px
+         2px 
+        #007b98ff,0 230px 2px
+         2px 
+        #007992ff,10px 230px 2px
+         2px 
+        #007992ff,20px 230px 2px
+         2px 
+        #007c94ff,30px 230px 2px
+         2px 
+        #007b95ff,40px 230px 2px
+         2px 
+        #007b93ff,50px 230px 2px
+         2px 
+        #007c96ff,60px 230px 2px
+         2px 
+        #007c94ff,70px 230px 2px
+         2px 
+        #3f737cff,80px 230px 2px
+         2px 
+        #a36860ff,90px 230px 2px
+         2px 
+        #e99589ff,100px 230px 2px
+         2px 
+        #feb6aeff,110px 230px 2px
+         2px 
+        #ffc1beff,120px 230px 2px
+         2px 
+        #ffc8c5ff,130px 230px 2px
+         2px 
+        #db7368ff,140px 230px 2px
+         2px 
+        #b96a5fff,150px 230px 2px
+         2px 
+        #f6aaa8ff,160px 230px 2px
+         2px 
+        #d3817fff,170px 230px 2px
+         2px 
+        #89221dff,180px 230px 2px
+         2px 
+        #dc8a8bff,190px 230px 2px
+         2px 
+        #d97569ff,200px 230px 2px
+         2px 
+        #fbb2adff,210px 230px 2px
+         2px 
+        #f1b0a8ff,220px 230px 2px
+         2px 
+        #d08b84ff,230px 230px 2px
+         2px 
+        #94625dff,240px 230px 2px
+         2px 
+        #553335ff,250px 230px 2px
+         2px 
+        #007b98ff,260px 230px 2px
+         2px 
+        #007d97ff,270px 230px 2px
+         2px 
+        #017c99ff,280px 230px 2px
+         2px 
+        #007b98ff,290px 230px 2px
+         2px 
+        #007a95ff,0 240px 2px
+         2px 
+        #007491ff,10px 240px 2px
+         2px 
+        #007793ff,20px 240px 2px
+         2px 
+        #007994ff,30px 240px 2px
+         2px 
+        #007994ff,40px 240px 2px
+         2px 
+        #017892ff,50px 240px 2px
+         2px 
+        #007b93ff,60px 240px 2px
+         2px 
+        #007b95ff,70px 240px 2px
+         2px 
+        #007a95ff,80px 240px 2px
+         2px 
+        #7a4843ff,90px 240px 2px
+         2px 
+        #ba716cff,100px 240px 2px
+         2px 
+        #f0a095ff,110px 240px 2px
+         2px 
+        #febdb3ff,120px 240px 2px
+         2px 
+        #f6a097ff,130px 240px 2px
+         2px 
+        #a4544fff,140px 240px 2px
+         2px 
+        #441c1bff,150px 240px 2px
+         2px 
+        #875957ff,160px 240px 2px
+         2px 
+        #411715ff,170px 240px 2px
+         2px 
+        #321010ff,180px 240px 2px
+         2px 
+        #542424ff,190px 240px 2px
+         2px 
+        #6e3b3eff,200px 240px 2px
+         2px 
+        #975b57ff,210px 240px 2px
+         2px 
+        #d1968cff,220px 240px 2px
+         2px 
+        #c38783ff,230px 240px 2px
+         2px 
+        #623e3eff,240px 240px 2px
+         2px 
+        #553439ff,250px 240px 2px
+         2px 
+        #007b98ff,260px 240px 2px
+         2px 
+        #007c98ff,270px 240px 2px
+         2px 
+        #007997ff,280px 240px 2px
+         2px 
+        #007c94ff,290px 240px 2px
+         2px 
+        #007994ff,0 250px 2px
+         2px 
+        #00708eff,10px 250px 2px
+         2px 
+        #007491ff,20px 250px 2px
+         2px 
+        #017693ff,30px 250px 2px
+         2px 
+        #007793ff,40px 250px 2px
+         2px 
+        #007891ff,50px 250px 2px
+         2px 
+        #007791ff,60px 250px 2px
+         2px 
+        #007c94ff,70px 250px 2px
+         2px 
+        #007c96ff,80px 250px 2px
+         2px 
+        #3a1f22ff,90px 250px 2px
+         2px 
+        #683931ff,100px 250px 2px
+         2px 
+        #d8938cff,110px 250px 2px
+         2px 
+        #d6938cff,120px 250px 2px
+         2px 
+        #5c3b3eff,130px 250px 2px
+         2px 
+        #4b2a2dff,140px 250px 2px
+         2px 
+        #422124ff,150px 250px 2px
+         2px 
+        #4b3534ff,160px 250px 2px
+         2px 
+        #390908ff,170px 250px 2px
+         2px 
+        #823b3dff,180px 250px 2px
+         2px 
+        #8d5248ff,190px 250px 2px
+         2px 
+        #3d1a14ff,200px 250px 2px
+         2px 
+        #574142ff,210px 250px 2px
+         2px 
+        #af746aff,220px 250px 2px
+         2px 
+        #8b4e47ff,230px 250px 2px
+         2px 
+        #623234ff,240px 250px 2px
+         2px 
+        #3e2c34ff,250px 250px 2px
+         2px 
+        #007c94ff,260px 250px 2px
+         2px 
+        #007b95ff,270px 250px 2px
+         2px 
+        #007a97ff,280px 250px 2px
+         2px 
+        #007a93ff,290px 250px 2px
+         2px 
+        #007491ff,0 260px 2px
+         2px 
+        #006e8aff,10px 260px 2px
+         2px 
+        #00738eff,20px 260px 2px
+         2px 
+        #007390ff,30px 260px 2px
+         2px 
+        #007592ff,40px 260px 2px
+         2px 
+        #037492ff,50px 260px 2px
+         2px 
+        #007791ff,60px 260px 2px
+         2px 
+        #007a93ff,70px 260px 2px
+         2px 
+        #017d97ff,80px 260px 2px
+         2px 
+        #006780ff,90px 260px 2px
+         2px 
+        #5a3632ff,100px 260px 2px
+         2px 
+        #bc7965ff,110px 260px 2px
+         2px 
+        #6c4146ff,120px 260px 2px
+         2px 
+        #5f4042ff,130px 260px 2px
+         2px 
+        #512624ff,140px 260px 2px
+         2px 
+        #ac3a3dff,150px 260px 2px
+         2px 
+        #e24f56ff,160px 260px 2px
+         2px 
+        #d93d4aff,170px 260px 2px
+         2px 
+        #f96070ff,180px 260px 2px
+         2px 
+        #da4952ff,190px 260px 2px
+         2px 
+        #c77164ff,200px 260px 2px
+         2px 
+        #201311ff,210px 260px 2px
+         2px 
+        #89665eff,220px 260px 2px
+         2px 
+        #69443fff,230px 260px 2px
+         2px 
+        #694f4fff,240px 260px 2px
+         2px 
+        #2f3d4aff,250px 260px 2px
+         2px 
+        #007b95ff,260px 260px 2px
+         2px 
+        #007a93ff,270px 260px 2px
+         2px 
+        #007994ff,280px 260px 2px
+         2px 
+        #007793ff,290px 260px 2px
+         2px 
+        #007491ff,0 270px 2px
+         2px 
+        #006a88ff,10px 270px 2px
+         2px 
+        #006d8aff,20px 270px 2px
+         2px 
+        #00738eff,30px 270px 2px
+         2px 
+        #007793ff,40px 270px 2px
+         2px 
+        #007592ff,50px 270px 2px
+         2px 
+        #007791ff,60px 270px 2px
+         2px 
+        #007791ff,70px 270px 2px
+         2px 
+        #007a92ff,80px 270px 2px
+         2px 
+        #007b98ff,90px 270px 2px
+         2px 
+        #4b2b2cff,100px 270px 2px
+         2px 
+        #8c625aff,110px 270px 2px
+         2px 
+        #a57165ff,120px 270px 2px
+         2px 
+        #60362eff,130px 270px 2px
+         2px 
+        #b3695aff,140px 270px 2px
+         2px 
+        #df7c75ff,150px 270px 2px
+         2px 
+        #fd7e83ff,160px 270px 2px
+         2px 
+        #f69291ff,170px 270px 2px
+         2px 
+        #ec9290ff,180px 270px 2px
+         2px 
+        #a56663ff,190px 270px 2px
+         2px 
+        #b8776fff,200px 270px 2px
+         2px 
+        #644445ff,210px 270px 2px
+         2px 
+        #47353fff,220px 270px 2px
+         2px 
+        #695455ff,230px 270px 2px
+         2px 
+        #63434aff,240px 270px 2px
+         2px 
+        #00576aff,250px 270px 2px
+         2px 
+        #007a93ff,260px 270px 2px
+         2px 
+        #007992ff,270px 270px 2px
+         2px 
+        #007992ff,280px 270px 2px
+         2px 
+        #007390ff,290px 270px 2px
+         2px 
+        #00738eff,0 280px 2px
+         2px 
+        #006a86ff,10px 280px 2px
+         2px 
+        #006b89ff,20px 280px 2px
+         2px 
+        #006f8bff,30px 280px 2px
+         2px 
+        #00748fff,40px 280px 2px
+         2px 
+        #007390ff,50px 280px 2px
+         2px 
+        #007592ff,60px 280px 2px
+         2px 
+        #007592ff,70px 280px 2px
+         2px 
+        #007994ff,80px 280px 2px
+         2px 
+        #027a91ff,90px 280px 2px
+         2px 
+        #2f2c33ff,100px 280px 2px
+         2px 
+        #663d35ff,110px 280px 2px
+         2px 
+        #623d39ff,120px 280px 2px
+         2px 
+        #98858dff,130px 280px 2px
+         2px 
+        #604240ff,140px 280px 2px
+         2px 
+        #743633ff,150px 280px 2px
+         2px 
+        #593c46ff,160px 280px 2px
+         2px 
+        #6c3a39ff,170px 280px 2px
+         2px 
+        #321219ff,180px 280px 2px
+         2px 
+        #b76a64ff,190px 280px 2px
+         2px 
+        #b27f78ff,200px 280px 2px
+         2px 
+        #56363fff,210px 280px 2px
+         2px 
+        #454657ff,220px 280px 2px
+         2px 
+        #413338ff,230px 280px 2px
+         2px 
+        #171224ff,240px 280px 2px
+         2px 
+        #010721ff,250px 280px 2px
+         2px 
+        #017290ff,260px 280px 2px
+         2px 
+        #007795ff,270px 280px 2px
+         2px 
+        #007994ff,280px 280px 2px
+         2px 
+        #007390ff,290px 280px 2px
+         2px 
+        #00708eff,0 290px 2px
+         2px 
+        #016885ff,10px 290px 2px
+         2px 
+        #006983ff,20px 290px 2px
+         2px 
+        #006b87ff,30px 290px 2px
+         2px 
+        #00728dff,40px 290px 2px
+         2px 
+        #00738eff,50px 290px 2px
+         2px 
+        #007390ff,60px 290px 2px
+         2px 
+        #017693ff,70px 290px 2px
+         2px 
+        #007793ff,80px 290px 2px
+         2px 
+        #007893ff,90px 290px 2px
+         2px 
+        #007b91ff,100px 290px 2px
+         2px 
+        #383039ff,110px 290px 2px
+         2px 
+        #221115ff,120px 290px 2px
+         2px 
+        #68525aff,130px 290px 2px
+         2px 
+        #80605fff,140px 290px 2px
+         2px 
+        #8a4a3cff,150px 290px 2px
+         2px 
+        #934b41ff,160px 290px 2px
+         2px 
+        #c97c80ff,170px 290px 2px
+         2px 
+        #aa6665ff,180px 290px 2px
+         2px 
+        #c48280ff,190px 290px 2px
+         2px 
+        #9d7371ff,200px 290px 2px
+         2px 
+        #8c7583ff,210px 290px 2px
+         2px 
+        #404151ff,220px 290px 2px
+         2px 
+        #18131dff,230px 290px 2px
+         2px 
+        #2e252eff,240px 290px 2px
+         2px 
+        #00061cff,250px 290px 2px
+         2px 
+        #00020bff,260px 290px 2px
+         2px 
+        #017894ff,270px 290px 2px
+         2px 
+        #00778eff,280px 290px 2px
+         2px 
+        #00738eff,290px 290px 2px
+         2px 
+        #00708cff,0 300px 2px
+         2px 
+        #006580ff,10px 300px 2px
+         2px 
+        #006681ff,20px 300px 2px
+         2px 
+        #006b87ff,30px 300px 2px
+         2px 
+        #00708cff,40px 300px 2px
+         2px 
+        #00718dff,50px 300px 2px
+         2px 
+        #007390ff,60px 300px 2px
+         2px 
+        #007491ff,70px 300px 2px
+         2px 
+        #007592ff,80px 300px 2px
+         2px 
+        #007793ff,90px 300px 2px
+         2px 
+        #010213ff,100px 300px 2px
+         2px 
+        #383033ff,110px 300px 2px
+         2px 
+        #2a1317ff,120px 300px 2px
+         2px 
+        #605c69ff,130px 300px 2px
+         2px 
+        #9c98a3ff,140px 300px 2px
+         2px 
+        #b59fa7ff,150px 300px 2px
+         2px 
+        #ce9b9cff,160px 300px 2px
+         2px 
+        #b98a8cff,170px 300px 2px
+         2px 
+        #c59192ff,180px 300px 2px
+         2px 
+        #b797a0ff,190px 300px 2px
+         2px 
+        #b3a1abff,200px 300px 2px
+         2px 
+        #a2acb9ff,210px 300px 2px
+         2px 
+        #26272dff,220px 300px 2px
+         2px 
+        #0b0a0eff,230px 300px 2px
+         2px 
+        #51282dff,240px 300px 2px
+         2px 
+        #010b22ff,250px 300px 2px
+         2px 
+        #030206ff,260px 300px 2px
+         2px 
+        #000001ff,270px 300px 2px
+         2px 
+        #000307ff,280px 300px 2px
+         2px 
+        #01010bff,290px 300px 2px
+         2px 
+        #006a88ff,0 310px 2px
+         2px 
+        #00637fff,10px 310px 2px
+         2px 
+        #00637fff,20px 310px 2px
+         2px 
+        #006784ff,30px 310px 2px
+         2px 
+        #016c88ff,40px 310px 2px
+         2px 
+        #006d8cff,50px 310px 2px
+         2px 
+        #00738eff,60px 310px 2px
+         2px 
+        #007491ff,70px 310px 2px
+         2px 
+        #007690ff,80px 310px 2px
+         2px 
+        #02748dff,90px 310px 2px
+         2px 
+        #01010bff,100px 310px 2px
+         2px 
+        #150f1bff,110px 310px 2px
+         2px 
+        #210d0bff,120px 310px 2px
+         2px 
+        #26191eff,130px 310px 2px
+         2px 
+        #988e9bff,140px 310px 2px
+         2px 
+        #b4b2b9ff,150px 310px 2px
+         2px 
+        #bdabadff,160px 310px 2px
+         2px 
+        #ccb4c2ff,170px 310px 2px
+         2px 
+        #c29aa8ff,180px 310px 2px
+         2px 
+        #b4aab6ff,190px 310px 2px
+         2px 
+        #9096a2ff,200px 310px 2px
+         2px 
+        #636878ff,210px 310px 2px
+         2px 
+        #0b0910ff,220px 310px 2px
+         2px 
+        #5d3d3eff,230px 310px 2px
+         2px 
+        #010000ff,240px 310px 2px
+         2px 
+        #00051fff,250px 310px 2px
+         2px 
+        #152737ff,260px 310px 2px
+         2px 
+        #000c10ff,270px 310px 2px
+         2px 
+        #000000ff,280px 310px 2px
+         2px 
+        #000102ff,290px 310px 2px
+         2px 
+        #000104ff,0 320px 2px
+         2px 
+        #00617cff,10px 320px 2px
+         2px 
+        #006681ff,20px 320px 2px
+         2px 
+        #006681ff,30px 320px 2px
+         2px 
+        #006c85ff,40px 320px 2px
+         2px 
+        #006881ff,50px 320px 2px
+         2px 
+        #000209ff,60px 320px 2px
+         2px 
+        #000104ff,70px 320px 2px
+         2px 
+        #010002ff,80px 320px 2px
+         2px 
+        #00000aff,90px 320px 2px
+         2px 
+        #010618ff,100px 320px 2px
+         2px 
+        #010000ff,110px 320px 2px
+         2px 
+        #693b39ff,120px 320px 2px
+         2px 
+        #5c3c3dff,130px 320px 2px
+         2px 
+        #502e30ff,140px 320px 2px
+         2px 
+        #9696a0ff,150px 320px 2px
+         2px 
+        #aaa1b0ff,160px 320px 2px
+         2px 
+        #afb0b6ff,170px 320px 2px
+         2px 
+        #a3aebcff,180px 320px 2px
+         2px 
+        #798591ff,190px 320px 2px
+         2px 
+        #393741ff,200px 320px 2px
+         2px 
+        #131015ff,210px 320px 2px
+         2px 
+        #5e3233ff,220px 320px 2px
+         2px 
+        #945c5bff,230px 320px 2px
+         2px 
+        #000614ff,240px 320px 2px
+         2px 
+        #00010aff,250px 320px 2px
+         2px 
+        #29334bff,260px 320px 2px
+         2px 
+        #010715ff,270px 320px 2px
+         2px 
+        #000104ff,280px 320px 2px
+         2px 
+        #000102ff,290px 320px 2px
+         2px 
+        #000107ff,0 330px 2px
+         2px 
+        #000d1fff,10px 330px 2px
+         2px 
+        #010512ff,20px 330px 2px
+         2px 
+        #00040eff,30px 330px 2px
+         2px 
+        #00030bff,40px 330px 2px
+         2px 
+        #00060aff,50px 330px 2px
+         2px 
+        #010208ff,60px 330px 2px
+         2px 
+        #000104ff,70px 330px 2px
+         2px 
+        #000104ff,80px 330px 2px
+         2px 
+        #020e2aff,90px 330px 2px
+         2px 
+        #010a1fff,100px 330px 2px
+         2px 
+        #020000ff,110px 330px 2px
+         2px 
+        #9b645cff,120px 330px 2px
+         2px 
+        #955957ff,130px 330px 2px
+         2px 
+        #3c2728ff,140px 330px 2px
+         2px 
+        #5e3e3fff,150px 330px 2px
+         2px 
+        #5b3e48ff,160px 330px 2px
+         2px 
+        #503437ff,170px 330px 2px
+         2px 
+        #241818ff,180px 330px 2px
+         2px 
+        #2f2733ff,190px 330px 2px
+         2px 
+        #160d14ff,200px 330px 2px
+         2px 
+        #975d5dff,210px 330px 2px
+         2px 
+        #ab6768ff,220px 330px 2px
+         2px 
+        #a15352ff,230px 330px 2px
+         2px 
+        #00132cff,240px 330px 2px
+         2px 
+        #000000ff,250px 330px 2px
+         2px 
+        #24384dff,260px 330px 2px
+         2px 
+        #223349ff,270px 330px 2px
+         2px 
+        #000914ff,280px 330px 2px
+         2px 
+        #000102ff,290px 330px 2px
+         2px 
+        #000109ff,0 340px 2px
+         2px 
+        #000209ff,10px 340px 2px
+         2px 
+        #00030aff,20px 340px 2px
+         2px 
+        #01020aff,30px 340px 2px
+         2px 
+        #01040bff,40px 340px 2px
+         2px 
+        #000209ff,50px 340px 2px
+         2px 
+        #00030bff,60px 340px 2px
+         2px 
+        #000001ff,70px 340px 2px
+         2px 
+        #000104ff,80px 340px 2px
+         2px 
+        #00071bff,90px 340px 2px
+         2px 
+        #060e1fff,100px 340px 2px
+         2px 
+        #150100ff,110px 340px 2px
+         2px 
+        #985a4fff,120px 340px 2px
+         2px 
+        #a3645fff,130px 340px 2px
+         2px 
+        #b27770ff,140px 340px 2px
+         2px 
+        #763e3bff,150px 340px 2px
+         2px 
+        #835b58ff,160px 340px 2px
+         2px 
+        #6d4343ff,170px 340px 2px
+         2px 
+        #552024ff,180px 340px 2px
+         2px 
+        #986061ff,190px 340px 2px
+         2px 
+        #bf827cff,200px 340px 2px
+         2px 
+        #d29694ff,210px 340px 2px
+         2px 
+        #c78581ff,220px 340px 2px
+         2px 
+        #782a2aff,230px 340px 2px
+         2px 
+        #01132dff,240px 340px 2px
+         2px 
+        #000008ff,250px 340px 2px
+         2px 
+        #152739ff,260px 340px 2px
+         2px 
+        #193147ff,270px 340px 2px
+         2px 
+        #00010aff,280px 340px 2px
+         2px 
+        #01080fff,290px 340px 2px
+         2px 
+        #000209ff,0 350px 2px
+         2px 
+        #00030aff,10px 350px 2px
+         2px 
+        #000308ff,20px 350px 2px
+         2px 
+        #00030aff,30px 350px 2px
+         2px 
+        #000209ff,40px 350px 2px
+         2px 
+        #000207ff,50px 350px 2px
+         2px 
+        #000104ff,60px 350px 2px
+         2px 
+        #00050fff,70px 350px 2px
+         2px 
+        #040d1eff,80px 350px 2px
+         2px 
+        #010004ff,90px 350px 2px
+         2px 
+        #00122aff,100px 350px 2px
+         2px 
+        #69312eff,110px 350px 2px
+         2px 
+        #be6d66ff,120px 350px 2px
+         2px 
+        #d48781ff,130px 350px 2px
+         2px 
+        #d08a86ff,140px 350px 2px
+         2px 
+        #e39a95ff,150px 350px 2px
+         2px 
+        #e19e9aff,160px 350px 2px
+         2px 
+        #dc9d98ff,170px 350px 2px
+         2px 
+        #ecb0aeff,180px 350px 2px
+         2px 
+        #efb6b3ff,190px 350px 2px
+         2px 
+        #edb5acff,200px 350px 2px
+         2px 
+        #f5adabff,210px 350px 2px
+         2px 
+        #db9393ff,220px 350px 2px
+         2px 
+        #161225ff,230px 350px 2px
+         2px 
+        #01112aff,240px 350px 2px
+         2px 
+        #00020bff,250px 350px 2px
+         2px 
+        #111731ff,260px 350px 2px
+         2px 
+        #042f41ff,270px 350px 2px
+         2px 
+        #1d283aff,280px 350px 2px
+         2px 
+        #00090fff,290px 350px 2px
+         2px 
+        #000207ff,0 360px 2px
+         2px 
+        #000209ff,10px 360px 2px
+         2px 
+        #01030cff,20px 360px 2px
+         2px 
+        #00030aff,30px 360px 2px
+         2px 
+        #000209ff,40px 360px 2px
+         2px 
+        #000107ff,50px 360px 2px
+         2px 
+        #00050cff,60px 360px 2px
+         2px 
+        #01010bff,70px 360px 2px
+         2px 
+        #1c3347ff,80px 360px 2px
+         2px 
+        #000102ff,90px 360px 2px
+         2px 
+        #001c3aff,100px 360px 2px
+         2px 
+        #9a5657ff,110px 360px 2px
+         2px 
+        #dc9188ff,120px 360px 2px
+         2px 
+        #e5948fff,130px 360px 2px
+         2px 
+        #e29996ff,140px 360px 2px
+         2px 
+        #efada9ff,150px 360px 2px
+         2px 
+        #f2b1a9ff,160px 360px 2px
+         2px 
+        #efb2acff,170px 360px 2px
+         2px 
+        #f3b8b1ff,180px 360px 2px
+         2px 
+        #f7bab4ff,190px 360px 2px
+         2px 
+        #f6b7b4ff,200px 360px 2px
+         2px 
+        #eea2a0ff,210px 360px 2px
+         2px 
+        #cf6e69ff,220px 360px 2px
+         2px 
+        #02122dff,230px 360px 2px
+         2px 
+        #010a27ff,240px 360px 2px
+         2px 
+        #00122cff,250px 360px 2px
+         2px 
+        #00112bff,260px 360px 2px
+         2px 
+        #25364cff,270px 360px 2px
+         2px 
+        #16273cff,280px 360px 2px
+         2px 
+        #0e1327ff,290px 360px 2px
+         2px 
+        #030d1bff,0 370px 2px
+         2px 
+        #00030dff,10px 370px 2px
+         2px 
+        #000107ff,20px 370px 2px
+         2px 
+        #00050fff,30px 370px 2px
+         2px 
+        #01040bff,40px 370px 2px
+         2px 
+        #000003ff,50px 370px 2px
+         2px 
+        #00040cff,60px 370px 2px
+         2px 
+        #13273cff,70px 370px 2px
+         2px 
+        #1f2d44ff,80px 370px 2px
+         2px 
+        #000109ff,90px 370px 2px
+         2px 
+        #001a39ff,100px 370px 2px
+         2px 
+        #b86b67ff,110px 370px 2px
+         2px 
+        #e69087ff,120px 370px 2px
+         2px 
+        #f1b4aeff,130px 370px 2px
+         2px 
+        #e08f8aff,140px 370px 2px
+         2px 
+        #e8a5a0ff,150px 370px 2px
+         2px 
+        #ee8f89ff,160px 370px 2px
+         2px 
+        #f8b6b2ff,170px 370px 2px
+         2px 
+        #f0b2afff,180px 370px 2px
+         2px 
+        #f0b5aeff,190px 370px 2px
+         2px 
+        #f7b3b2ff,200px 370px 2px
+         2px 
+        #e99e99ff,210px 370px 2px
+         2px 
+        #41374cff,220px 370px 2px
+         2px 
+        #0b1b3eff,230px 370px 2px
+         2px 
+        #000823ff,240px 370px 2px
+         2px 
+        #011e3cff,250px 370px 2px
+         2px 
+        #01132dff,260px 370px 2px
+         2px 
+        #010101ff,270px 370px 2px
+         2px 
+        #1f3247ff,280px 370px 2px
+         2px 
+        #162038ff,290px 370px 2px
+         2px 
+        #06040dff,0 380px 2px
+         2px 
+        #000006ff,10px 380px 2px
+         2px 
+        #000209ff,20px 380px 2px
+         2px 
+        #00020bff,30px 380px 2px
+         2px 
+        #00050dff,40px 380px 2px
+         2px 
+        #000f1aff,50px 380px 2px
+         2px 
+        #1c3142ff,60px 380px 2px
+         2px 
+        #213449ff,70px 380px 2px
+         2px 
+        #040620ff,80px 380px 2px
+         2px 
+        #000413ff,90px 380px 2px
+         2px 
+        #000e27ff,100px 380px 2px
+         2px 
+        #0a182eff,110px 380px 2px
+         2px 
+        #e5928cff,120px 380px 2px
+         2px 
+        #f7a69fff,130px 380px 2px
+         2px 
+        #eaa19cff,140px 380px 2px
+         2px 
+        #dd908cff,150px 380px 2px
+         2px 
+        #f19a97ff,160px 380px 2px
+         2px 
+        #e59796ff,170px 380px 2px
+         2px 
+        #e2a2a2ff,180px 380px 2px
+         2px 
+        #ec9e9eff,190px 380px 2px
+         2px 
+        #f1afabff,200px 380px 2px
+         2px 
+        #da8e8cff,210px 380px 2px
+         2px 
+        #131731ff,220px 380px 2px
+         2px 
+        #071c3dff,230px 380px 2px
+         2px 
+        #000b25ff,240px 380px 2px
+         2px 
+        #001838ff,250px 380px 2px
+         2px 
+        #020002ff,260px 380px 2px
+         2px 
+        #00040eff,270px 380px 2px
+         2px 
+        #00070dff,280px 380px 2px
+         2px 
+        #1b3d54ff,290px 380px 2px
+         2px 
+        #1d354fff,0 390px 2px
+         2px 
+        #000209ff,10px 390px 2px
+         2px 
+        #00020bff,20px 390px 2px
+         2px 
+        #01080fff,30px 390px 2px
+         2px 
+        #00020bff,40px 390px 2px
+         2px 
+        #000207ff,50px 390px 2px
+         2px 
+        #082737ff,60px 390px 2px
+         2px 
+        #1a2d3fff,70px 390px 2px
+         2px 
+        #020921ff,80px 390px 2px
+         2px 
+        #000316ff,90px 390px 2px
+         2px 
+        #000b23ff,100px 390px 2px
+         2px 
+        #0b1836ff,110px 390px 2px
+         2px 
+        #d28483ff,120px 390px 2px
+         2px 
+        #fdada8ff,130px 390px 2px
+         2px 
+        #f3a19fff,140px 390px 2px
+         2px 
+        #dd8881ff,150px 390px 2px
+         2px 
+        #d88686ff,160px 390px 2px
+         2px 
+        #e6b0b1ff,170px 390px 2px
+         2px 
+        #efb0b4ff,180px 390px 2px
+         2px 
+        #f3b5b6ff,190px 390px 2px
+         2px 
+        #eba5a4ff,200px 390px 2px
+         2px 
+        #151b35ff,210px 390px 2px
+         2px 
+        #0a1b31ff,220px 390px 2px
+         2px 
+        #0a1b39ff,230px 390px 2px
+         2px 
+        #00000cff,240px 390px 2px
+         2px 
+        #000310ff,250px 390px 2px
+         2px 
+        #001026ff,260px 390px 2px
+         2px 
+        #00060dff,270px 390px 2px
+         2px 
+        #00040eff,280px 390px 2px
+         2px 
+        #000914ff,290px 390px 2px
+         2px 
+        #050f1cff,0 400px 2px
+         2px 
+        #00050dff,10px 400px 2px
+         2px 
+        #000610ff,20px 400px 2px
+         2px 
+        #010006ff,30px 400px 2px
+         2px 
+        #001117ff,40px 400px 2px
+         2px 
+        #213953ff,50px 400px 2px
+         2px 
+        #3e4259ff,60px 400px 2px
+         2px 
+        #193451ff,70px 400px 2px
+         2px 
+        #000d24ff,80px 400px 2px
+         2px 
+        #010a1fff,90px 400px 2px
+         2px 
+        #040e25ff,100px 400px 2px
+         2px 
+        #000207ff,110px 400px 2px
+         2px 
+        #111127ff,120px 400px 2px
+         2px 
+        #f2a9a7ff,130px 400px 2px
+         2px 
+        #faacabff,140px 400px 2px
+         2px 
+        #f5afabff,150px 400px 2px
+         2px 
+        #f2afaaff,160px 400px 2px
+         2px 
+        #e1a3a0ff,170px 400px 2px
+         2px 
+        #f0babbff,180px 400px 2px
+         2px 
+        #eca9aeff,190px 400px 2px
+         2px 
+        #aa6169ff,200px 400px 2px
+         2px 
+        #131c39ff,210px 400px 2px
+         2px 
+        #000519ff,220px 400px 2px
+         2px 
+        #000926ff,230px 400px 2px
+         2px 
+        #00061cff,240px 400px 2px
+         2px 
+        #05132cff,250px 400px 2px
+         2px 
+        #000312ff,260px 400px 2px
+         2px 
+        #00050dff,270px 400px 2px
+         2px 
+        #000b13ff,280px 400px 2px
+         2px 
+        #030d1aff,290px 400px 2px
+         2px 
+        #010618ff,0 410px 2px
+         2px 
+        #000611ff,10px 410px 2px
+         2px 
+        #020009ff,20px 410px 2px
+         2px 
+        #000b15ff,30px 410px 2px
+         2px 
+        #28354bff,40px 410px 2px
+         2px 
+        #1b3447ff,50px 410px 2px
+         2px 
+        #000a18ff,60px 410px 2px
+         2px 
+        #080a15ff,70px 410px 2px
+         2px 
+        #010e2dff,80px 410px 2px
+         2px 
+        #040c25ff,90px 410px 2px
+         2px 
+        #000001ff,100px 410px 2px
+         2px 
+        #000413ff,110px 410px 2px
+         2px 
+        #161c38ff,120px 410px 2px
+         2px 
+        #b27d81ff,130px 410px 2px
+         2px 
+        #f1aba7ff,140px 410px 2px
+         2px 
+        #f0a8a6ff,150px 410px 2px
+         2px 
+        #f2a4a3ff,160px 410px 2px
+         2px 
+        #f0aeaeff,170px 410px 2px
+         2px 
+        #da9c9dff,180px 410px 2px
+         2px 
+        #e29d96ff,190px 410px 2px
+         2px 
+        #152241ff,200px 410px 2px
+         2px 
+        #131a3aff,210px 410px 2px
+         2px 
+        #010a25ff,220px 410px 2px
+         2px 
+        #000a24ff,230px 410px 2px
+         2px 
+        #00061eff,240px 410px 2px
+         2px 
+        #01112cff,250px 410px 2px
+         2px 
+        #00142dff,260px 410px 2px
+         2px 
+        #010b18ff,270px 410px 2px
+         2px 
+        #000712ff,280px 410px 2px
+         2px 
+        #000816ff,290px 410px 2px
+         2px 
+        #020816ff,0 420px 2px
+         2px 
+        #000104ff,10px 420px 2px
+         2px 
+        #01040bff,20px 420px 2px
+         2px 
+        #001c2dff,30px 420px 2px
+         2px 
+        #001220ff,40px 420px 2px
+         2px 
+        #00050fff,50px 420px 2px
+         2px 
+        #000513ff,60px 420px 2px
+         2px 
+        #00040eff,70px 420px 2px
+         2px 
+        #030b26ff,80px 420px 2px
+         2px 
+        #00102bff,90px 420px 2px
+         2px 
+        #00102bff,100px 420px 2px
+         2px 
+        #000617ff,110px 420px 2px
+         2px 
+        #000312ff,120px 420px 2px
+         2px 
+        #030108ff,130px 420px 2px
+         2px 
+        #131731ff,140px 420px 2px
+         2px 
+        #1a1f40ff,150px 420px 2px
+         2px 
+        #764355ff,160px 420px 2px
+         2px 
+        #ecb1aaff,170px 420px 2px
+         2px 
+        #c1746cff,180px 420px 2px
+         2px 
+        #0f1c38ff,190px 420px 2px
+         2px 
+        #141a3eff,200px 420px 2px
+         2px 
+        #000107ff,210px 420px 2px
+         2px 
+        #071a39ff,220px 420px 2px
+         2px 
+        #011230ff,230px 420px 2px
+         2px 
+        #01112cff,240px 420px 2px
+         2px 
+        #000c28ff,250px 420px 2px
+         2px 
+        #061735ff,260px 420px 2px
+         2px 
+        #000313ff,270px 420px 2px
+         2px 
+        #000817ff,280px 420px 2px
+         2px 
+        #020b1cff,290px 420px 2px
+         2px 
+        #000819ff,0 430px 2px
+         2px 
+        #030917ff,10px 430px 2px
+         2px 
+        #040a14ff,20px 430px 2px
+         2px 
+        #020c17ff,30px 430px 2px
+         2px 
+        #050916ff,40px 430px 2px
+         2px 
+        #000916ff,50px 430px 2px
+         2px 
+        #020816ff,60px 430px 2px
+         2px 
+        #000611ff,70px 430px 2px
+         2px 
+        #001530ff,80px 430px 2px
+         2px 
+        #010419ff,90px 430px 2px
+         2px 
+        #031633ff,100px 430px 2px
+         2px 
+        #071836ff,110px 430px 2px
+         2px 
+        #020e2aff,120px 430px 2px
+         2px 
+        #000b27ff,130px 430px 2px
+         2px 
+        #000411ff,140px 430px 2px
+         2px 
+        #000313ff,150px 430px 2px
+         2px 
+        #08142cff,160px 430px 2px
+         2px 
+        #04172cff,170px 430px 2px
+         2px 
+        #0e213eff,180px 430px 2px
+         2px 
+        #151b3fff,190px 430px 2px
+         2px 
+        #000b24ff,200px 430px 2px
+         2px 
+        #020b20ff,210px 430px 2px
+         2px 
+        #121d3dff,220px 430px 2px
+         2px 
+        #051530ff,230px 430px 2px
+         2px 
+        #021c3fff,240px 430px 2px
+         2px 
+        #000c28ff,250px 430px 2px
+         2px 
+        #001433ff,260px 430px 2px
+         2px 
+        #000312ff,270px 430px 2px
+         2px 
+        #000b1bff,280px 430px 2px
+         2px 
+        #030b1cff,290px 430px 2px
+         2px 
+        #050d1cff,0 440px 2px
+         2px 
+        #0b0c1cff,10px 440px 2px
+         2px 
+        #080a17ff,20px 440px 2px
+         2px 
+        #000614ff,30px 440px 2px
+         2px 
+        #030b1cff,40px 440px 2px
+         2px 
+        #030b1cff,50px 440px 2px
+         2px 
+        #010b18ff,60px 440px 2px
+         2px 
+        #031e3bff,70px 440px 2px
+         2px 
+        #051634ff,80px 440px 2px
+         2px 
+        #001332ff,90px 440px 2px
+         2px 
+        #0a1a3fff,100px 440px 2px
+         2px 
+        #002244ff,110px 440px 2px
+         2px 
+        #031a38ff,120px 440px 2px
+         2px 
+        #051433ff,130px 440px 2px
+         2px 
+        #051835ff,140px 440px 2px
+         2px 
+        #02122bff,150px 440px 2px
+         2px 
+        #010d27ff,160px 440px 2px
+         2px 
+        #02192fff,170px 440px 2px
+         2px 
+        #012142ff,180px 440px 2px
+         2px 
+        #00112dff,190px 440px 2px
+         2px 
+        #091634ff,200px 440px 2px
+         2px 
+        #041a36ff,210px 440px 2px
+         2px 
+        #04193cff,220px 440px 2px
+         2px 
+        #010d27ff,230px 440px 2px
+         2px 
+        #031839ff,240px 440px 2px
+         2px 
+        #031a3aff,250px 440px 2px
+         2px 
+        #001735ff,260px 440px 2px
+         2px 
+        #0b1c3cff,270px 440px 2px
+         2px 
+        #020d1dff,280px 440px 2px
+         2px 
+        #031120ff,290px 440px 2px
+         2px 
+        #02101fff;}
